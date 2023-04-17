@@ -1,0 +1,16 @@
+https://www.geeksforgeeks.org/python-numpy-cov-function/
+https://stackoverflow.com/questions/21759026/python-covariance-matrix-by-hand
+https://github.com/numpy/numpy/blob/v1.8.0/numpy/lib/function_base.py#L1648
+
+https://datascience.stackexchange.com/questions/10459/calculation-and-visualization-of-correlation-matrix-with-pandas
+
+.open covar1
+
+CREATE TABLE futures_data
+(
+open varchar(10),
+low varchar(10),
+high varchar(10),
+close varchar(10),
+vol varchar(10)
+);
